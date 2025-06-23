@@ -59,6 +59,6 @@ class DefaultFirebaseOptions {
     messagingSenderId: "216691192181",
     appId: "1:216691192181:web:75794f064611ecfa16e33c",
     databaseURL:
-        "https://notes-e7ce8-default-rtdb.asia-southeast1.firebasedatabase.app/",
+        "https://your-db-url-default-rtdb.firebasedatabase.app/",
   );
 }
